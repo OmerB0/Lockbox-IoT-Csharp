@@ -15,8 +15,10 @@ Offline çalışan C# WinForms uygulaması. QR token üretir ve webcam ile QR ko
 - **Çoklu Kasa Yönetimi**: 6 kasa için görsel yönetim paneli
 - **Durum Takibi**: Gerçek zamanlı kasa durumu takibi ve senkronizasyonu
 
-<img width="1110" height="631" alt="Ekran görüntüsü 2026-03-18 165825" src="https://github.com/user-attachments/assets/4e06bbb9-a818-4d8d-9026-d061861b1e67" />
-<img width="2176" height="1952" alt="lockbox" src="https://github.com/user-attachments/assets/3001214b-d6bd-469c-bd9c-f2d07cf6bb8e" />
+<img src="https://github.com/user-attachments/assets/4e06bbb9-a818-4d8d-9026-d061861b1e67" width="600">
+
+<img src="https://github.com/user-attachments/assets/3001214b-d6bd-469c-bd9c-f2d07cf6bb8e" width="600">
+
 
 
 ## Teknoloji
